@@ -1,3 +1,6 @@
+### Ссылка на проект на GitHub
+https://github.com/Artem2215/web-larek-frontend
+
 # Проектная работа "Веб-ларек"
 
 Стек: HTML, SCSS, TS, Webpack
